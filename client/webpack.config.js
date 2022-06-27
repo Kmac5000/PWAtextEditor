@@ -22,6 +22,10 @@ module.exports = () => {
         template: "./index.html",
         title: "JATE",
       }),
+      new HtmlWebpackPlugin({
+        template: "./index.html",
+        title: "JATE",
+      }),
     ],
 
     module: {
