@@ -6,7 +6,7 @@
 
 ---
 
-Simple text editor that can be used offline.
+Simple text editor that can saved as a Progressive Web App for use offline.
 
 [Link to Live Application](https://desolate-brushlands-55244.herokuapp.com/)
 
